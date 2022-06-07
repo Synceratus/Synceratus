@@ -40,6 +40,7 @@ These are some of the languages, libs and tools I've had the chance to use when 
   <a href="https://github.com/topics/pycharm"><code><img height="25" alt="PyCharm Logo." title="PyCharm" src="https://raw.githubusercontent.com/github/explore/d8574c7bce27faa27fb879bca56dfe351ee66efd/topics/pycharm/pycharm.png"></code></a>
   <a href="https://github.com/topics/git"><code><img height="25" alt="Git Logo." title="Git" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code></a>
   <a href="https://github.com/topics/heroku"><code><img height="25" alt="Heroku Logo." title="Heroku" src="https://raw.githubusercontent.com/github/explore/cb661bc288627f05a5ac4187b00495fd8048c9fa/topics/heroku/heroku.png"></code></a>
+  <a href="https://github.com/topics/mongodb"><code><img height="25" alt="MongoDB Logo." title="MongoDB" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code></a>
 </p>
 
 ---
