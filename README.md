@@ -41,4 +41,4 @@ These are some of the languages, libs and tools I've had the chance to use when 
 
 ---
 
-<sub>Well, congratulations! 🎉 You're one of the few lucky people who got to the end of this file... <img src="https://visitor-badge.glitch.me/badge?page_id=synceratus.synceratus&left_color=green&right_color=red"></sub>
+<sub><span><img src="https://visitor-badge.glitch.me/badge?page_id=synceratus.synceratus&left_color=green&right_color=red"><span> Well, congratulations! 🎉 You're one of the few lucky people who got to the end of this file...</sub>
