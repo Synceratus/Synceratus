@@ -45,6 +45,12 @@ These are some of the languages, libs and tools I've had the chance to use when 
   <a href="https://github.com/topics/mongodb"><code><img height="25" alt="MongoDB Logo." title="MongoDB" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code></a>
 </p>
 
+### 🔨 Projects
+
+Here's a list of some of the project I've been working on lately:
+
+- yes
+
 ---
 
 <sub>Well, congratulations! 🎉 You're one of the few lucky people who got to the end of this file...</sub>
