@@ -8,7 +8,7 @@ I'm available on a multitude of platforms, like:
 
 - [**Discord**](https://discord.com/), where you can find me under the tag 🔗 `Zaiden#1598`
 
-Well... apparently it's just one ☝️ for now, 😅.
+Well... apparently it's just one ☝️ for now.
 
 <!--
 **Synceratus/Synceratus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
