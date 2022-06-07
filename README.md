@@ -6,7 +6,7 @@ Hello there, I'm Zaiden! 👋 I'm an 18-year-old student who's interested in the
 
 ### 🗨️ A way to contact me
 
-If you want to contact me, I'm available on a multitude of platforms like:
+There are not a lot of platforms you could contact me on, however there's a few select ones that I visit almost each day. If you want to contact me, check out where I'm available at:
 
 - [**Discord**](https://discord.com/) <span><img height="18" alt="Discord Logo." title="Discord" src="https://raw.githubusercontent.com/github/explore/2a3ce46f963399611d8e2054bb0ce9a4b539296a/topics/discord/discord.png"></spam> , where you can find me under the tag 🔗 `Zaiden#1598`
 
