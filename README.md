@@ -12,7 +12,7 @@ There are not many platforms you could contact me on. However, there are a few I
 
 Well... apparently it's just one ☝️ for now. However that's fine! It's the fastest way you can get a response from me with at the moment.
 
-### 🧠 Some of my personal knowledge
+### 🧠 My knowledge
 
 These are some of the languages, libs and tools I've had the chance to use when working on different projects:
 
