@@ -1,4 +1,4 @@
-## 👀 Take A Peek! <img align="right" src="https://komarev.com/ghpvc/?username=Synceratus&style=flat&label=PEEKERS!&color=07a892">
+### 👀 Take A Peek! <img align="right" src="https://komarev.com/ghpvc/?username=Synceratus&style=flat&label=PEEKERS!&color=07a892">
 
 <div>
   <img align="right" height="100px" width="auto" src="https://media.giphy.com/media/XZ033bAXmrstTLqZR4/giphy.gif">
@@ -7,7 +7,7 @@
 
 ---
 
-## 🗨️ A way to contact me
+### 🗨️ A way to contact me
 
 There are not many platforms you can contact me on. However, there are a few I visit almost every day. If you want to contact me, check out where I'm available at:
 
@@ -15,7 +15,7 @@ There are not many platforms you can contact me on. However, there are a few I v
 
 Well... apparently it's just one ☝️ for now. However that's fine! It's the fastest way you can get a response from me with at the moment.
 
-## 🧠 My knowledge
+### 🧠 My knowledge
 
 These are some of the languages, libs, frameworks and tools I've had the chance to use when working on different projects:
 
@@ -48,7 +48,7 @@ These are some of the languages, libs, frameworks and tools I've had the chance 
   <a href="https://github.com/topics/mongodb"><code><img height="25" alt="MongoDB Logo." title="MongoDB" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code></a>
 </p>
 
-## 🔨 Projects
+### 🔨 Projects
 
 Here's a list of some of the projects I've worked on lately:
 
