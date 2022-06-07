@@ -2,7 +2,7 @@
 
 Hello there, I'm Zaiden! 👋 I'm a student who is interested in the tech field, specifically computer science and cybersecurity.
 
-### 🗨️ Contact
+### 🗨️ A way to contact me
 
 If you want to contact me, I'm available on a multitude of platforms like:
 
@@ -10,7 +10,7 @@ If you want to contact me, I'm available on a multitude of platforms like:
 
 Well... apparently it's just one ☝️ for now. However that's fine! It's the fastest way you can get a response from me at the moment.
 
-### 🧠 Knowledge
+### 🧠 Some of my personal knowledge
 
 These are some of the languages, libs and tools I've had the chance to use when working on different projects:
 
