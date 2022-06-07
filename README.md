@@ -39,6 +39,7 @@ These are some of the languages, libs and tools I've had the chance to use when 
   <a href="https://github.com/topics/intellij-idea"><code><img height="25" alt="Intellij IDEA Logo." title="Intellij IDEA" src="https://raw.githubusercontent.com/github/explore/caa262eeb858e81282d6f651d6eef1f8730b54ba/topics/intellij-idea/intellij-idea.png"></code></a>
   <a href="https://github.com/topics/pycharm"><code><img height="25" alt="PyCharm Logo." title="PyCharm" src="https://raw.githubusercontent.com/github/explore/d8574c7bce27faa27fb879bca56dfe351ee66efd/topics/pycharm/pycharm.png"></code></a>
   <a href="https://github.com/topics/git"><code><img height="25" alt="Git Logo." title="Git" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code></a>
+  <a href="https://github.com/topics/heroku"><code><img height="25" alt="Heroku Logo." title="Heroku" src="https://raw.githubusercontent.com/github/explore/cb661bc288627f05a5ac4187b00495fd8048c9fa/topics/heroku/heroku.png"></code></a>
 </p>
 
 ---
