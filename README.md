@@ -44,7 +44,7 @@ These are some of the languages, libs and tools I've had the chance to use when 
   <a href="https://github.com/topics/heroku"><code><img height="25" alt="Heroku Logo." title="Heroku" src="https://raw.githubusercontent.com/github/explore/cb661bc288627f05a5ac4187b00495fd8048c9fa/topics/heroku/heroku.png"></code></a>
   <a href="https://github.com/topics/mongodb"><code><img height="25" alt="MongoDB Logo." title="MongoDB" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code></a>
 </p>
-
+--
 ### 🔨 Projects
 
 Here's a list of some of the project I've been working on lately:
