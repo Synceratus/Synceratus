@@ -12,6 +12,8 @@ There are not many platforms you could contact me on. However, there are a few I
 
 Well... apparently it's just one ☝️ for now. However that's fine! It's the fastest way you can get a response from me with at the moment.
 
+</br>
+
 ### 🧠 My knowledge
 
 These are some of the languages, libs and tools I've had the chance to use when working on different projects:
@@ -44,7 +46,9 @@ These are some of the languages, libs and tools I've had the chance to use when 
   <a href="https://github.com/topics/heroku"><code><img height="25" alt="Heroku Logo." title="Heroku" src="https://raw.githubusercontent.com/github/explore/cb661bc288627f05a5ac4187b00495fd8048c9fa/topics/heroku/heroku.png"></code></a>
   <a href="https://github.com/topics/mongodb"><code><img height="25" alt="MongoDB Logo." title="MongoDB" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code></a>
 </p>
---
+
+</br>
+
 ### 🔨 Projects
 
 Here's a list of some of the project I've been working on lately:
