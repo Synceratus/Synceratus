@@ -14,7 +14,7 @@ Well... apparently it's just one ☝️ for now. However that's fine! It's the f
 
 These are some of the languages, libs and tools I've had the chance to use when working on different projects:
 
-<p align="center" margin-bottom="50px">
+<p align="center" style="margin-bottom: 50px">
   <code><img height="25" alt="JavaScript Logo." src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
   <code><img height="25" alt="CSS Logo." src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
   <code><img height="25" alt="HTML Logo." src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
