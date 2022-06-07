@@ -1,4 +1,4 @@
-## Take A Peek! 👀 <img align="right" src="https://komarev.com/ghpvc/?username=Synceratus&style=flat-square">
+## Take A Peek! 👀 <img align="right" src="https://komarev.com/ghpvc/?username=Synceratus&style=flat&label=PEEKERS!&color=07a892">
 
 Hello there, I'm Zaiden! 👋 I'm an 18-year-old student who is interested in the tech field, specifically computer science and cybersecurity.
 
