@@ -1,7 +1,7 @@
 ### 👀 Take A Peek! <img align="right" src="https://komarev.com/ghpvc/?username=Synceratus&style=flat&label=PEEKERS!&color=07a892">
 
 <div>
-  <table><tr><td><img align="right" height="100px" width="auto" src="https://media.giphy.com/media/XZ033bAXmrstTLqZR4/giphy.gif"></td></tr></table>
+  <img align="right" height="100px" width="auto" src="https://media.giphy.com/media/XZ033bAXmrstTLqZR4/giphy.gif">
   <span>Hello there, I'm Zaiden! 👋 I'm an 18-year-old student interested in the tech field, specifically computer science and cybersecurity. I'm new to open-source contribution and maintenance, and as of now, I'm mainly working on small educational projects that allow me to get new experiences and learn new stuff. Always happy to take on challenges and get some knowledge out of them. Wanna talk? Scroll <a href="#%EF%B8%8F-a-way-to-contact-me">down</a> to find out how!</span>
 </div>
 
