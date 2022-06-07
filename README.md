@@ -6,7 +6,7 @@ Hello there, I'm Zaiden! 👋 I'm a student who is interested in the tech field,
 
 I'm available on a multitude of platforms, like:
 
-- [**Discord**](https://discord.com/)<span><img height="15" alt="Discord Logo." src="https://raw.githubusercontent.com/github/explore/2a3ce46f963399611d8e2054bb0ce9a4b539296a/topics/discord/discord.png"></spam>, where you can find me under the tag 🔗 `Zaiden#1598`
+- [**Discord**](https://discord.com/) <span><img height="15" alt="Discord Logo." src="https://raw.githubusercontent.com/github/explore/2a3ce46f963399611d8e2054bb0ce9a4b539296a/topics/discord/discord.png"></spam>, where you can find me under the tag 🔗 `Zaiden#1598`
 
 Well... apparently it's just one ☝️ for now. However that's fine! It's the fastest way you can a response from me at the moment.
 
