@@ -28,6 +28,7 @@ These are some of the languages, libs and tools I've had the chance to use when 
 <p align="center">
   <code><img height="25" alt="LibGDX Logo." src="https://avatars.githubusercontent.com/u/509841"></code>
   <code><img height="25" alt="DiscordJS Logo." src="https://avatars.githubusercontent.com/u/26492485"></code>
+  <code><img height="25" alt="NobloxJS." src="https://avatars.githubusercontent.com/u/81932091"></code>
 </p>
 
 
