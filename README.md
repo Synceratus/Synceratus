@@ -38,3 +38,5 @@ These are some of the languages, libs and tools I've had the chance to use when 
   <a href="https://github.com/topics/intellij-idea"><code><img height="25" alt="Intellij IDEA Logo." title="Intellij IDEA" src="https://raw.githubusercontent.com/github/explore/caa262eeb858e81282d6f651d6eef1f8730b54ba/topics/intellij-idea/intellij-idea.png"></code></a>
   <a href="https://github.com/topics/pycharm"><code><img height="25" alt="PyCharm Logo." title="PyCharm" src="https://raw.githubusercontent.com/github/explore/d8574c7bce27faa27fb879bca56dfe351ee66efd/topics/pycharm/pycharm.png"></code></a>
 </p>
+
+Might add more in the future or whenever I recall whatever I forgot.
