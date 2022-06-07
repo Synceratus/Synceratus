@@ -1,4 +1,4 @@
-## Take A Peek! 👀
+## Take A Peek! 👀 <img src="https://visitor-badge.glitch.me/badge?page_id=synceratus.synceratus&left_color=green&right_color=red">
 
 Hello there, I'm Zaiden! 👋 I'm an 18-year-old student who is interested in the tech field, specifically computer science and cybersecurity.
 
@@ -41,4 +41,4 @@ These are some of the languages, libs and tools I've had the chance to use when 
 
 ---
 
-<sub><span><img src="https://visitor-badge.glitch.me/badge?page_id=synceratus.synceratus&left_color=green&right_color=red"><span> Well, congratulations! 🎉 You're one of the few lucky people who got to the end of this file...</sub>
+<sub>Well, congratulations! 🎉 You're one of the few lucky people who got to the end of this file...</sub>
