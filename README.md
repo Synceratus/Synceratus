@@ -18,18 +18,18 @@ These are some of the languages, libs and tools I've had the chance to use when 
   <code><img height="25" alt="JavaScript Logo." title="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
   <code><img height="25" alt="CSS Logo." title="CSS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
   <code><img height="25" alt="HTML Logo." title="HTML" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-  <code><img height="25" alt="C Logo." src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png"></code>
-  <code><img height="25" alt="Java Logo." src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png"></code>
-  <code><img height="25" alt="Lua Logo." src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png"></code>
-  <code><img height="25" alt="Python Logo." src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-  <code><img height="25" alt="Assembly Logo." src="https://raw.githubusercontent.com/github/explore/e495457f5ff28c343f9e422f8e3cf80fd3e80890/topics/assembly/assembly.png"></code>
+  <code><img height="25" alt="C Logo." title="C Logo." src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png"></code>
+  <code><img height="25" alt="Java Logo." title="Java" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png"></code>
+  <code><img height="25" alt="Lua Logo." title="Lua" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png"></code>
+  <code><img height="25" alt="Python Logo." title="Python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+  <code><img height="25" alt="Assembly Logo." title="Assembly" src="https://raw.githubusercontent.com/github/explore/e495457f5ff28c343f9e422f8e3cf80fd3e80890/topics/assembly/assembly.png"></code>
 </p>
 </br>
 <p align="center">
-  <code><img height="25" alt="LibGDX Logo." src="https://avatars.githubusercontent.com/u/509841"></code>
-  <code><img height="25" alt="DiscordJS Logo." src="https://avatars.githubusercontent.com/u/26492485"></code>
-  <code><img height="25" alt="NobloxJS Logo." src="https://avatars.githubusercontent.com/u/81932091"></code>
-  <code><img height="25" alt="{{ mustache }} Logo." src="https://railsware.com/blog/wp-content/uploads/2012/04/mustache-150x150.png"></code>
+  <code><img height="25" alt="LibGDX Logo." title="LibGDX" src="https://avatars.githubusercontent.com/u/509841"></code>
+  <code><img height="25" alt="DiscordJS Logo." title="DiscordJS" src="https://avatars.githubusercontent.com/u/26492485"></code>
+  <code><img height="25" alt="NobloxJS Logo." title="NobloxJS" src="https://avatars.githubusercontent.com/u/81932091"></code>
+  <code><img height="25" alt="{{ mustache }} Logo." title="{{ mustache }}" src="https://railsware.com/blog/wp-content/uploads/2012/04/mustache-150x150.png"></code>
 </p>
 
 
