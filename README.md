@@ -41,4 +41,4 @@ These are some of the languages, libs and tools I've had the chance to use when 
 
 ---
 
-<sub>lul</sub>
+<sub>Well, congratulations! 🎉 You're one of the few lucky people who got to the end of this file...</sub>
