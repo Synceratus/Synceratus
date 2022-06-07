@@ -1,6 +1,6 @@
 ### Peek! 👀
 
-![A GIF of a cat waving with its paws.](https://media.giphy.com/media/XZ033bAXmrstTLqZR4/giphy.gif | width=2000)
+![A GIF of a cat waving with its paws.](https://media.giphy.com/media/XZ033bAXmrstTLqZR4/giphy.gif | width=2000px)
 
 Hello there, I'm Zaiden! 👋
 
