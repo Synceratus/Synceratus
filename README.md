@@ -39,4 +39,6 @@ These are some of the languages, libs and tools I've had the chance to use when 
   <a href="https://github.com/topics/pycharm"><code><img height="25" alt="PyCharm Logo." title="PyCharm" src="https://raw.githubusercontent.com/github/explore/d8574c7bce27faa27fb879bca56dfe351ee66efd/topics/pycharm/pycharm.png"></code></a>
 </p>
 
-Might add more in the future or whenever I recall whatever I forgot.
+---
+
+<sub>lul</sub>
