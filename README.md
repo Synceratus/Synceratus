@@ -52,9 +52,11 @@ These are some of the languages, libs, frameworks and tools I've had the chance 
 
 ### 🔨 Projects
 
-Here's a list of some of the project I've been working on lately:
+Here's a list of some of the projects I've worked on lately:
 
-- yes
+- **Tales of Flefaria**, Java 2D platform game based on LibGDX;
+- **Palladium**, general purpose bot for Discord based on Node.js and DiscordJS;
+- **Presence**, activity tracker without in-game implementation based on Node.js, DiscordJS and NobloxJS;
 
 ---
 
