@@ -1,4 +1,4 @@
-## Take A Peek! 👀 <img align="right" src="https://visitor-badge.glitch.me/badge?page_id=synceratus.synceratus&left_text=Peekers&left_color=#1f5155&right_color=#07a892">
+## Take A Peek! 👀 <img align="right" src="https://visitor-badge.glitch.me/badge?page_id=synceratus.synceratus&left_text=Peekers&left_color=#1f555&right_color=#07a92">
 
 Hello there, I'm Zaiden! 👋 I'm an 18-year-old student who is interested in the tech field, specifically computer science and cybersecurity.
 
