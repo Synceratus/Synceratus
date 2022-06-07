@@ -29,7 +29,7 @@ These are some of the languages, libs and tools I've had the chance to use when 
   <code><img height="25" alt="LibGDX Logo." src="https://avatars.githubusercontent.com/u/509841"></code>
   <code><img height="25" alt="DiscordJS Logo." src="https://avatars.githubusercontent.com/u/26492485"></code>
   <code><img height="25" alt="NobloxJS Logo." src="https://avatars.githubusercontent.com/u/81932091"></code>
-  <code><img height="15" width="25" alt="{{ mustache }} Logo." src="https://www.tsmean.com/assets/img/the-ultimate-mustache-tutorial/mustache-logo.png"></code>
+  <code><img height="25" alt="{{ mustache }} Logo." src="https://railsware.com/blog/wp-content/uploads/2012/04/mustache-150x150.png"></code>
 </p>
 
 
