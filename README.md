@@ -1,6 +1,6 @@
 ### 👀 Take A Peek! <img align="right" src="https://komarev.com/ghpvc/?username=Synceratus&style=flat&label=PEEKERS!&color=07a892">
 
-Hello there, I'm Zaiden! 👋 I'm an 18-year-old student who's interested in the tech field, specifically computer science and cybersecurity.
+Hello there, I'm Zaiden! 👋 I'm an 18-year-old student interested in the tech field, specifically computer science and cybersecurity. I'm new to open-source contribution and maintenance, and as of now, I'm mainly working on small educational projects that allow me to get new experiences and learn new stuff. Always happy to take on challenges and get some knowledge out of them. Wanna talk? Scroll down to find out how!
 
 ---
 
