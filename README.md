@@ -2,7 +2,7 @@
 
 Hello there, I'm Zaiden! 👋 I'm a student who is interested in the tech field, specifically computer science and cybersecurity.
 
-### 🗨️ Want to contact me?
+### 🗨️ Contact me
 
 I'm available on a multitude of platforms, like:
 
