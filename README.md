@@ -31,3 +31,7 @@ These are some of the languages, libs and tools I've had the chance to use when 
   <a href="https://github.com/noblox"><code><img height="25" alt="NobloxJS Logo." title="NobloxJS" src="https://avatars.githubusercontent.com/u/81932091"></code></a>
   <a href="https://github.com/janl/mustache.js"><code><img height="25" alt="mustache.js Logo." title="mustache.js" src="https://railsware.com/blog/wp-content/uploads/2012/04/mustache-150x150.png"></code></a>
 </p>
+</br>
+<p align="center">
+  <a href="https://github.com/topics/vscode"><code><img height="25" alt="Visual Studio Code Logo." title="Visual Studio Code" src="https://raw.githubusercontent.com/github/explore/bbd48b997e8d0bef63f676eca4da5e1f76487b56/topics/visual-studio-code/visual-studio-code.png"></code></a>
+</p>
