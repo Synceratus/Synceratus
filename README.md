@@ -23,6 +23,10 @@ These are some of the languages, libs and tools I've had the chance to use when 
   <code><img height="25" alt="Lua Logo." src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png"></code>
 </p>
 
+<p>
+  <code><img height="25" alt="LibGDX Logo." src="https://avatars.githubusercontent.com/u/509841?s=200&v=4"></code>
+</p>
+
 
 <!--
 **Synceratus/Synceratus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
