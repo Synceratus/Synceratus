@@ -15,9 +15,6 @@ Well... apparently it's just one ☝️ for now. However that's fine! It's the f
 These are some of the languages, libs and tools I've had the chance to use when working on different projects:
 
 <p align="center">
-  <span><b>LANGUAGES</b><span>
-  </br>
-  </br>
   <a href="https://github.com/topics/javascript"><code><img height="25" alt="JavaScript Logo." title="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code></a>
   <a href="https://github.com/topics/css"><code><img height="25" alt="CSS Logo." title="CSS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code></a>
   <a href="https://github.com/topics/html"><code><img height="25" alt="HTML Logo." title="HTML" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code></a>
@@ -29,9 +26,6 @@ These are some of the languages, libs and tools I've had the chance to use when 
 </p>
 </br>
 <p align="center">
-  <span><b>LIBS, FRAMEWORKS, ETC...</b><span>
-  </br>
-  </br>
   <a href="https://github.com/libgdx"><code><img height="25" alt="LibGDX Logo." title="LibGDX" src="https://avatars.githubusercontent.com/u/509841"></code></a>
   <a href="https://github.com/discordjs"><code><img height="25" alt="DiscordJS Logo." title="DiscordJS" src="https://avatars.githubusercontent.com/u/26492485"></code></a>
   <a href="https://github.com/noblox"><code><img height="25" alt="NobloxJS Logo." title="NobloxJS" src="https://avatars.githubusercontent.com/u/81932091"></code></a>
@@ -40,9 +34,6 @@ These are some of the languages, libs and tools I've had the chance to use when 
 </p>
 </br>
 <p align="center">
-  <span><b>TOOLS<span></b>
-  </br>
-  </br>
   <a href="https://github.com/topics/vscode"><code><img height="25" alt="Visual Studio Code Logo." title="Visual Studio Code" src="https://raw.githubusercontent.com/github/explore/bbd48b997e8d0bef63f676eca4da5e1f76487b56/topics/visual-studio-code/visual-studio-code.png"></code></a>
   <a href="https://github.com/topics/intellij-idea"><code><img height="25" alt="Intellij IDEA Logo." title="Intellij IDEA" src="https://raw.githubusercontent.com/github/explore/caa262eeb858e81282d6f651d6eef1f8730b54ba/topics/intellij-idea/intellij-idea.png"></code></a>
   <a href="https://github.com/topics/pycharm"><code><img height="25" alt="PyCharm Logo." title="PyCharm" src="https://raw.githubusercontent.com/github/explore/d8574c7bce27faa27fb879bca56dfe351ee66efd/topics/pycharm/pycharm.png"></code></a>
