@@ -2,9 +2,9 @@
 
 Hello there, I'm Zaiden! 👋 I'm a student who is interested in the tech field, specifically computer science and cybersecurity.
 
-### 🗨️ Contact me
+### 🗨️ Contact
 
-I'm available on a multitude of platforms, like:
+If you want to contact me, I'm available on a multitude of platforms like:
 
 - [**Discord**](https://discord.com/) <span><img height="18" alt="Discord Logo." src="https://raw.githubusercontent.com/github/explore/2a3ce46f963399611d8e2054bb0ce9a4b539296a/topics/discord/discord.png"></spam> , where you can find me under the tag 🔗 `Zaiden#1598`
 
