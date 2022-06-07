@@ -2,11 +2,13 @@
 
 Hello there, I'm Zaiden! 👋 I'm a student who is interested in the tech field, specifically computer science and cybersecurity.
 
-### Want to contact me? 🗨️
+### 🗨️ Want to contact me?
 
 I'm available on a multitude of platforms, like:
 
-- 🔗 [**Discord**](https://discord.com/), where you can find me under the tag `Zaiden#1598`
+- [**Discord**](https://discord.com/), where you can find me under the tag 🔗 `Zaiden#1598`
+
+Well... apparently it's just one ☝️ for now, 😅.
 
 <!--
 **Synceratus/Synceratus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
