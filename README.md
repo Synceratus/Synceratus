@@ -1,6 +1,6 @@
 ## Take A Peek! 👀
 
-Hello there, I'm Zaiden! 👋 I'm a student who is interested in the tech field, specifically computer science and cybersecurity.
+Hello there, I'm Zaiden! 👋 I'm an 18-year-old student who is interested in the tech field, specifically computer science and cybersecurity.
 
 ### 🗨️ A way to contact me
 
