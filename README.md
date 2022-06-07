@@ -11,9 +11,7 @@ There are not many platforms you can contact me on. However, there are a few I v
 - [**Discord**](https://discord.com/) <span><img height="18" alt="Discord Logo." title="Discord" src="https://raw.githubusercontent.com/github/explore/2a3ce46f963399611d8e2054bb0ce9a4b539296a/topics/discord/discord.png"></spam> , where you can find me under the tag 🔗 `Zaiden#1598`
 
 Well... apparently it's just one ☝️ for now. However that's fine! It's the fastest way you can get a response from me with at the moment.
-
 </br>
-
 ### 🧠 My knowledge
 
 These are some of the languages, libs, frameworks and tools I've had the chance to use when working on different projects:
@@ -46,9 +44,7 @@ These are some of the languages, libs, frameworks and tools I've had the chance 
   <a href="https://github.com/topics/heroku"><code><img height="25" alt="Heroku Logo." title="Heroku" src="https://raw.githubusercontent.com/github/explore/cb661bc288627f05a5ac4187b00495fd8048c9fa/topics/heroku/heroku.png"></code></a>
   <a href="https://github.com/topics/mongodb"><code><img height="25" alt="MongoDB Logo." title="MongoDB" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code></a>
 </p>
-
 </br>
-
 ### 🔨 Projects
 
 Here's a list of some of the project I've been working on lately:
