@@ -1,12 +1,12 @@
 ## Take A Peek! 👀 <img align="right" src="https://komarev.com/ghpvc/?username=Synceratus&style=flat&label=PEEKERS!&color=07a892">
 
-Hello there, I'm Zaiden! 👋 I'm an 18-year-old student who's interested in the tech field, specifically computer science and cybersecurity.
+Hello there, I'm Zaiden <span><img height="18" alt="Zaiden's Logo." title="Zaiden the pro c:" src="https://avatars.githubusercontent.com/u/65905477"></span>! 👋 I'm an 18-year-old student who's interested in the tech field, specifically computer science and cybersecurity.
 
 ### 🗨️ A way to contact me
 
 If you want to contact me, I'm available on a multitude of platforms like:
 
-- [**Discord**](https://discord.com/) <span><img height="18" alt="Discord Logo." src="https://raw.githubusercontent.com/github/explore/2a3ce46f963399611d8e2054bb0ce9a4b539296a/topics/discord/discord.png"></spam> , where you can find me under the tag 🔗 `Zaiden#1598`
+- [**Discord**](https://discord.com/) <span><img height="18" alt="Discord Logo." title="Discord" src="https://raw.githubusercontent.com/github/explore/2a3ce46f963399611d8e2054bb0ce9a4b539296a/topics/discord/discord.png"></spam> , where you can find me under the tag 🔗 `Zaiden#1598`
 
 Well... apparently it's just one ☝️ for now. However that's fine! It's the fastest way you can get a response from me with at the moment.
 
