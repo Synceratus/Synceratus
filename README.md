@@ -24,7 +24,8 @@ These are some of the languages, libs and tools I've had the chance to use when 
 </p>
 </br>
 <p align="center">
-  <code><img height="25" alt="LibGDX Logo." src="https://avatars.githubusercontent.com/u/509841?s=200&v=4"></code>
+  <code><img height="25" alt="LibGDX Logo." src="https://avatars.githubusercontent.com/u/509841"></code>
+  <code><img height="25" alt="Discord JS Logo." src="https://avatars.githubusercontent.com/u/26492485"></code>
 </p>
 
 
