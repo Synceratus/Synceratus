@@ -30,6 +30,7 @@ These are some of the languages, libs and tools I've had the chance to use when 
   <a href="https://github.com/discordjs"><code><img height="25" alt="DiscordJS Logo." title="DiscordJS" src="https://avatars.githubusercontent.com/u/26492485"></code></a>
   <a href="https://github.com/noblox"><code><img height="25" alt="NobloxJS Logo." title="NobloxJS" src="https://avatars.githubusercontent.com/u/81932091"></code></a>
   <a href="https://github.com/janl/mustache.js"><code><img height="25" alt="mustache.js Logo." title="mustache.js" src="https://railsware.com/blog/wp-content/uploads/2012/04/mustache-150x150.png"></code></a>
+  <a href="https://github.com/topics/dotnet"><code><img height="25" alt=".NET Logo." title=".NET" src="https://raw.githubusercontent.com/github/explore/93d8a67084f94b2a444e510199a6e7622e5b09a3/topics/dotnet/dotnet.png"></code></a>
 </p>
 </br>
 <p align="center">
