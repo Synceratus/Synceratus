@@ -1,4 +1,4 @@
-## 👀 Take A Peek! <img align="right" src="https://komarev.com/ghpvc/?username=Synceratus&style=flat&label=PEEKERS!&color=07a892">
+### 👀 Take A Peek! <img align="right" src="https://komarev.com/ghpvc/?username=Synceratus&style=flat&label=PEEKERS!&color=07a892">
 
 <div>
   <img align="right" height="100px" width="auto" src="https://media.giphy.com/media/XZ033bAXmrstTLqZR4/giphy.gif">
