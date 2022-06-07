@@ -1,6 +1,6 @@
-### Hello there! 👋
+### Peek! 👀
 
-### :link: Contact me
+Hello there, I'm Zaiden! 👋
 
 <!--
 **Synceratus/Synceratus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
