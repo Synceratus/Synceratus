@@ -6,7 +6,7 @@ Hello there, I'm Zaiden! 👋 I'm an 18-year-old student interested in the tech 
 
 ### 🗨️ A way to contact me
 
-There are not many platforms you could contact me on. However, there are a few I visit almost every day. If you want to contact me, check out where I'm available at:
+There are not many platforms you can contact me on. However, there are a few I visit almost every day. If you want to contact me, check out where I'm available at:
 
 - [**Discord**](https://discord.com/) <span><img height="18" alt="Discord Logo." title="Discord" src="https://raw.githubusercontent.com/github/explore/2a3ce46f963399611d8e2054bb0ce9a4b539296a/topics/discord/discord.png"></spam> , where you can find me under the tag 🔗 `Zaiden#1598`
 
@@ -16,7 +16,7 @@ Well... apparently it's just one ☝️ for now. However that's fine! It's the f
 
 ### 🧠 My knowledge
 
-These are some of the languages, libs and tools I've had the chance to use when working on different projects:
+These are some of the languages, libs, frameworks and tools I've had the chance to use when working on different projects:
 
 <p align="center">
   <a href="https://github.com/topics/javascript"><code><img height="25" alt="JavaScript Logo." title="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code></a>
