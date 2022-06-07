@@ -26,16 +26,8 @@ These are some of the languages, libs and tools I've had the chance to use when 
 </p>
 </br>
 <p align="center">
-  <a href="https://github.com/libgdx">
-    <code><img height="25" alt="LibGDX Logo." title="LibGDX" src="https://avatars.githubusercontent.com/u/509841"></code>
-  </a>
-  <a href="https://github.com/discordjs">
-    <code><img height="25" alt="DiscordJS Logo." title="DiscordJS" src="https://avatars.githubusercontent.com/u/26492485"></code>
-  </a>
-  <a href="https://github.com/noblox">
-    <code><img height="25" alt="NobloxJS Logo." title="NobloxJS" src="https://avatars.githubusercontent.com/u/81932091"></code>
-  </a>
-  <a href="https://github.com/janl/mustache.js">
-    <code><img height="25" alt="mustache.js Logo." title="mustache.js" src="https://railsware.com/blog/wp-content/uploads/2012/04/mustache-150x150.png"></code>
-  </a>
+  <a href="https://github.com/libgdx"><code><img height="25" alt="LibGDX Logo." title="LibGDX" src="https://avatars.githubusercontent.com/u/509841"></code></a>
+  <a href="https://github.com/discordjs"><code><img height="25" alt="DiscordJS Logo." title="DiscordJS" src="https://avatars.githubusercontent.com/u/26492485"></code></a>
+  <a href="https://github.com/noblox"><code><img height="25" alt="NobloxJS Logo." title="NobloxJS" src="https://avatars.githubusercontent.com/u/81932091"></code></a>
+  <a href="https://github.com/janl/mustache.js"><code><img height="25" alt="mustache.js Logo." title="mustache.js" src="https://railsware.com/blog/wp-content/uploads/2012/04/mustache-150x150.png"></code></a>
 </p>
