@@ -53,8 +53,8 @@ These are some of the languages, libs, frameworks and tools I've had the chance 
 Here's a list of some of the projects I've worked on lately:
 
 - **Tales of Flefaria**, Java 2D platform game based on LibGDX;
-- **Palladium**, general purpose bot for Discord based on Node.js and DiscordJS;
-- **Presence**, activity tracker without in-game implementation based on Node.js, DiscordJS and NobloxJS;
+- **Palladium**, general purpose bot for Discord, based on Node.js and DiscordJS;
+- **Presence**, activity logger without in-game implementation, based on Node.js, DiscordJS and NobloxJS;
 
 ---
 
