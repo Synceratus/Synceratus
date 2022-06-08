@@ -36,7 +36,9 @@ These are some of the languages, libs, frameworks and tools I've had the chance 
   <a href="https://github.com/noblox"><code><img height="25" alt="NobloxJS Logo." title="NobloxJS" src="https://avatars.githubusercontent.com/u/81932091"></code></a>
   <a href="https://github.com/janl/mustache.js"><code><img height="25" alt="mustache.js Logo." title="mustache.js" src="https://railsware.com/blog/wp-content/uploads/2012/04/mustache-150x150.png"></code></a>
   <a href="https://github.com/topics/dotnet"><code><img height="25" alt=".NET Logo." title=".NET" src="https://raw.githubusercontent.com/github/explore/93d8a67084f94b2a444e510199a6e7622e5b09a3/topics/dotnet/dotnet.png"></code></a>
+  <a href="https://github.com/topics/aspnet"><code><img height="25" alt="ASP.NET Logo." title="ASP.NET" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aspnet/aspnet.png"></code></a>
   <a href="https://github.com/topics/nodejs"><code><img height="25" alt="Node.js Logo." title="Node.js" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code></a>
+  <a href="https://github.com/topics/bootstrap"><code><img height="25" alt="Bootstrap Logo." title="Bootstrap" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code></a>
 </p>
 </br>
 <p align="center">
@@ -46,6 +48,7 @@ These are some of the languages, libs, frameworks and tools I've had the chance 
   <a href="https://github.com/topics/git"><code><img height="25" alt="Git Logo." title="Git" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code></a>
   <a href="https://github.com/topics/heroku"><code><img height="25" alt="Heroku Logo." title="Heroku" src="https://raw.githubusercontent.com/github/explore/cb661bc288627f05a5ac4187b00495fd8048c9fa/topics/heroku/heroku.png"></code></a>
   <a href="https://github.com/topics/mongodb"><code><img height="25" alt="MongoDB Logo." title="MongoDB" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code></a>
+  <a href="https://github.com/topics/arduino"><code><img height="25" alt="Arduino Logo." title="Arduino" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png"></code></a>
 </p>
 
 ### 🔨 Projectsss
