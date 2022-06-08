@@ -43,6 +43,7 @@ These are some of the languages, libs, frameworks and tools I've had the chance 
 </br>
 <p align="center">
   <a href="https://github.com/topics/vscode"><code><img height="25" alt="Visual Studio Code Logo." title="Visual Studio Code" src="https://raw.githubusercontent.com/github/explore/bbd48b997e8d0bef63f676eca4da5e1f76487b56/topics/visual-studio-code/visual-studio-code.png"></code></a>
+  <a href="https://github.com/topics/atom"><code><img height="25" alt="Atom Logo." title="Atom" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png"></code></a>
   <a href="https://github.com/topics/intellij-idea"><code><img height="25" alt="Intellij IDEA Logo." title="Intellij IDEA" src="https://raw.githubusercontent.com/github/explore/caa262eeb858e81282d6f651d6eef1f8730b54ba/topics/intellij-idea/intellij-idea.png"></code></a>
   <a href="https://github.com/topics/pycharm"><code><img height="25" alt="PyCharm Logo." title="PyCharm" src="https://raw.githubusercontent.com/github/explore/d8574c7bce27faa27fb879bca56dfe351ee66efd/topics/pycharm/pycharm.png"></code></a>
   <a href="https://github.com/topics/git"><code><img height="25" alt="Git Logo." title="Git" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code></a>
