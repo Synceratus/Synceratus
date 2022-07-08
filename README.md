@@ -27,7 +27,6 @@ These are some of the languages, libs, frameworks and tools I've had the chance 
   <a href="https://github.com/topics/java"><code><img height="25" alt="Java Logo." title="Java" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png"></code></a>
   <a href="https://github.com/topics/lua"><code><img height="25" alt="Lua Logo." title="Lua" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png"></code></a>
   <a href="https://github.com/topics/python"><code><img height="25" alt="Python Logo." title="Python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code></a>
-  <a href="https://github.com/topics/assembly"><code><img height="25" alt="Assembly Logo." title="Assembly" src="https://raw.githubusercontent.com/github/explore/e495457f5ff28c343f9e422f8e3cf80fd3e80890/topics/assembly/assembly.png"></code></a>
 </p>
 </br>
 <p align="center">
