@@ -7,15 +7,13 @@
 
 ---
 
-### 🗨️ A way to contact me
+### 🗨️ How to contact me
 
 There are not many platforms you can contact me on. However, there are a few I visit almost every day. If you want to contact me, check out where I'm available at:
 
 - [**Discord**](https://discord.com/) <span><img height="18" alt="Discord Logo." title="Discord" src="https://raw.githubusercontent.com/github/explore/2a3ce46f963399611d8e2054bb0ce9a4b539296a/topics/discord/discord.png"></spam> , where you can find me under the tag 🔗 `Zaiden#1598`
 
-Well... apparently it's just one ☝️ for now. However that's fine! It's the fastest way you can use to get a response from me at the moment.
-
-### 🧠 My knowledge
+### 🧠 My expertise
 
 These are some of the languages, libs, frameworks and tools I've had the chance to use when working on different projects:
 
