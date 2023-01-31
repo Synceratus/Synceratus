@@ -7,12 +7,6 @@
 
 ---
 
-### 🗨️ How to contact me
-
-There are not many platforms you can contact me on. However, there are a few I visit almost every day. If you want to contact me, check out where I'm available at:
-
-- [**Discord**](https://discord.com/) <span><img height="18" alt="Discord Logo." title="Discord" src="https://raw.githubusercontent.com/github/explore/2a3ce46f963399611d8e2054bb0ce9a4b539296a/topics/discord/discord.png"></spam> , where you can find me under the tag 🔗 `Zaiden#1598`
-
 ### 🧠 My expertise
 
 These are some of the languages, libs, frameworks and tools I've had the chance to use when working on different projects:
@@ -51,6 +45,12 @@ These are some of the languages, libs, frameworks and tools I've had the chance 
   <a href="https://github.com/topics/mongodb"><code><img height="25" alt="MongoDB Logo." title="MongoDB" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code></a>
   <a href="https://github.com/topics/arduino"><code><img height="25" alt="Arduino Logo." title="Arduino" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png"></code></a>
 </p>
+
+### 🗨️ How to contact me
+
+There are not many platforms you can contact me on. However, there are a few I visit almost every day. If you want to contact me, check out where I'm available at:
+
+- [**Discord**](https://discord.com/) <span><img height="18" alt="Discord Logo." title="Discord" src="https://raw.githubusercontent.com/github/explore/2a3ce46f963399611d8e2054bb0ce9a4b539296a/topics/discord/discord.png"></spam> , where you can find me under the tag 🔗 `Zaiden#1598`
 
 ### 🔨 Projectsss
 
