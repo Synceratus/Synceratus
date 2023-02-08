@@ -2,7 +2,9 @@
 
 <div>
   <img align="right" height="100px" width="auto" src="https://media.giphy.com/media/XZ033bAXmrstTLqZR4/giphy.gif">
-  <span>Hi, I'm Zaiden! 👋 I'm an 18-year-old student with an interest in technology, particularly in computer science and cybersecurity. My experience with open-source contribution and maintenance is limited, but I am actively working on small educational projects to gain new experiences and broaden my knowledge. I embrace challenges and am eager to learn about new topics.</span>
+  <span>
+    Hi, I'm Zaiden! 👋 I'm an 18-year-old student with an interest in technology, particularly in computer science and cybersecurity. My experience with open-source contribution and maintenance is limited, but I am actively working on small educational projects to gain new experiences and broaden my knowledge. I embrace challenges and am eager to learn about new topics.
+  </span>
 </div>
 
 ---
