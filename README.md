@@ -23,6 +23,7 @@ These are some of the languages, libs, frameworks and tools I've had the chance 
   <a href="https://github.com/topics/python"><code><img height="25" alt="Python Logo." title="Python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code></a>
   <a href="https://github.com/topics/csharp"><code><img height="25" alt="C# Logo." title="C#" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code></a>
   <a href="https://github.com/topics/php"><code><img height="25" alt="PHP Logo." title="PHP" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png"></code></a>
+  <a href="https://github.com/topics/sql"><code><img height="25" alt="SQL Logo." title="SQL" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code></a>
 </p>
 </br>
 <p align="center">
