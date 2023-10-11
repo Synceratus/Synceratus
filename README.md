@@ -56,6 +56,4 @@ Here's a list of some of the projects I've worked on lately:
 - **Palladium**, general purpose bot for Discord, based on Node.js and DiscordJS;
 ---
 
-<sub>Well, congratulations! 🎉 You're one of the few lucky people who got to the end of this file, thank you.</sub>
-
-<!-- if you're seeing this, you're cool 😎 -->
+<sub>bye</sub>
