@@ -51,9 +51,9 @@ These are some of the languages, libs, frameworks and tools I've had the chance 
 
 Here's a list of some of the projects I've worked on lately:
 
+- **Breachstat**, 3D web simulation of an apartment with controllable sensors and relative analytics;
 - **Tales of Flefaria**, Java 2D platform game based on LibGDX;
 - **Palladium**, general purpose bot for Discord, based on Node.js and DiscordJS;
-
 ---
 
 <sub>Well, congratulations! 🎉 You're one of the few lucky people who got to the end of this file, thank you.</sub>
