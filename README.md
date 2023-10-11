@@ -36,6 +36,7 @@ These are some of the languages, libs, frameworks and tools I've had the chance 
   <a href="https://github.com/topics/nodejs"><code><img height="25" alt="Node.js Logo." title="Node.js" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code></a>
   <a href="https://github.com/topics/bootstrap"><code><img height="25" alt="Bootstrap Logo." title="Bootstrap" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code></a>
   <a href="https://github.com/topics/gradle"><code><img height="25" alt="Gradle Logo." title="Gradle" src="https://raw.githubusercontent.com/github/explore/59009b1589a883459c0ae19044e3e7e3ec0c4e0a/topics/gradle/gradle.png"></code></a>
+  <a href="https://github.com/topics/nextjs"><code><img height="25" alt="Next.js Logo." title="Next.js" src="https://raw.githubusercontent.com/github/explore/28b02bbc9ad9f7a503c43775aebeb515dc2da5fc/topics/nextjs/nextjs.png"></code></a>
 </p>
 </br>
 <p align="center">
