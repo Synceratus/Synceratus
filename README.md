@@ -43,6 +43,7 @@ These are some of the languages, libs, frameworks and tools I've had the chance 
   <a href="https://github.com/topics/git"><code><img height="25" alt="Git Logo." title="Git" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code></a>
   <a href="https://github.com/topics/heroku"><code><img height="25" alt="Heroku Logo." title="Heroku" src="https://raw.githubusercontent.com/github/explore/cb661bc288627f05a5ac4187b00495fd8048c9fa/topics/heroku/heroku.png"></code></a>
   <a href="https://github.com/topics/mongodb"><code><img height="25" alt="MongoDB Logo." title="MongoDB" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code></a>
+    <a href="https://github.com/topics/firebase"><code><img height="25" alt="MongoDB Logo." title="Firebase" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code></a>
   <a href="https://github.com/topics/arduino"><code><img height="25" alt="Arduino Logo." title="Arduino" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png"></code></a>
 </p>
 
