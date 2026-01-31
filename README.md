@@ -14,14 +14,14 @@ While my work isn’t always publicly visible, here’s a breakdown of my contri
 
 <picture>
   <source
-    srcset="https://raw.githubusercontent.com/Synceratus/Synceratus/refs/heads/main/assets/stats-dark.svg"
+    srcset="assets/stats-dark.svg"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://raw.githubusercontent.com/Synceratus/Synceratus/refs/heads/main/assets/stats-light.svg"
+    srcset="assets/stats-light.svg"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img heigth="400px" alt="Work breakdown image." title="Work breakdown image." src="https://raw.githubusercontent.com/Synceratus/Synceratus/refs/heads/main/assets/stats-dark.svg">
+  <img heigth="400px" alt="Work breakdown image." title="Work breakdown image." src="assets/stats-dark.svg">
 </picture>
 
 <!--### My expertise
