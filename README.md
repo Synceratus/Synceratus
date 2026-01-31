@@ -2,13 +2,29 @@
 
 <div>
   <span>
-    Hi, I'm Zaiden! 👋
+    Hi, I'm Zaiden.👋 Currently making games!
   </span>
 </div>
 
 ---
 
-### My expertise
+### Work breakdown
+
+While my work isn’t always publicly visible, here’s a breakdown of my contributions across all my repositories over the years, including total commits, additions, deletions, and language distribution.
+
+<picture>
+  <source
+    srcset="https://raw.githubusercontent.com/Synceratus/Synceratus/refs/heads/main/assets/stats-dark.svg"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://raw.githubusercontent.com/Synceratus/Synceratus/refs/heads/main/assets/stats-light.svg"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img heigth="400px" alt="Work breakdown image." title="Work breakdown image." src="https://raw.githubusercontent.com/Synceratus/Synceratus/refs/heads/main/assets/stats-dark.svg">
+</picture>
+
+<!--### My expertise
 
 These are some of the languages, libs, frameworks and tools I've had the chance to use when working on different projects:
 
@@ -46,10 +62,11 @@ These are some of the languages, libs, frameworks and tools I've had the chance 
     <a href="https://github.com/topics/firebase"><code><img height="25" alt="MongoDB Logo." title="Firebase" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code></a>
   <a href="https://github.com/topics/arduino"><code><img height="25" alt="Arduino Logo." title="Arduino" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png"></code></a>
 </p>
+-->
 
 ### Projectsss
 
-Here's a list of some of the projects I've worked on lately:
+Here's a list of some of the projects I've worked on lately `[last updated in 2022]`:
 
 - **Breachstat**, 3D web simulation of an apartment with controllable sensors and relative analytics;
 - **Tales of Flefaria**, Java 2D platform game based on LibGDX;
