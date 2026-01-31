@@ -35,7 +35,7 @@
   <text x="45" y="100" class="username" fill="#656d76">@Synceratus</text>
   <text x="45" y="145" class="section-title" fill="#656d76">Contributions</text>
   <text x="45" y="175" class="stat-label" fill="#1f2328">Total Commits</text>
-  <text x="340" y="175" class="stat-value" fill="#1f2328" text-anchor="end">892</text>
+  <text x="340" y="175" class="stat-value" fill="#1f2328" text-anchor="end">893</text>
   <text x="45" y="205" class="stat-label" fill="#1f2328">Lines Added</text>
   <text x="340" y="205" class="stat-value" fill="#1a7f37" text-anchor="end">+735.5K</text>
   <text x="45" y="235" class="stat-label" fill="#1f2328">Lines Removed</text>
@@ -86,7 +86,7 @@
           text-anchor="end">5</text>
     <text x="456" y="208" class="code-text">
       <tspan fill="#1f2328">PHP         </tspan>
-      <tspan dx="8" fill="#4F5D95"></tspan><tspan fill="#E0E0E0">████████████████</tspan>
+      <tspan dx="8" fill="#4F5D95">█</tspan><tspan fill="#E0E0E0">███████████████</tspan>
       <tspan fill="#656d76" dx="8">  2.9%</tspan>
     </text>
     <text x="422" y="230"
@@ -94,7 +94,7 @@
           text-anchor="end">6</text>
     <text x="456" y="230" class="code-text">
       <tspan fill="#1f2328">Java        </tspan>
-      <tspan dx="8" fill="#b07219"></tspan><tspan fill="#E0E0E0">████████████████</tspan>
+      <tspan dx="8" fill="#b07219">█</tspan><tspan fill="#E0E0E0">███████████████</tspan>
       <tspan fill="#656d76" dx="8">  2.4%</tspan>
     </text>
     <text x="422" y="252"
@@ -102,7 +102,7 @@
           text-anchor="end">7</text>
     <text x="456" y="252" class="code-text">
       <tspan fill="#1f2328">HTML        </tspan>
-      <tspan dx="8" fill="#e34c26"></tspan><tspan fill="#E0E0E0">████████████████</tspan>
+      <tspan dx="8" fill="#e34c26">█</tspan><tspan fill="#E0E0E0">███████████████</tspan>
       <tspan fill="#656d76" dx="8">  2.1%</tspan>
     </text>
     <text x="422" y="274"
@@ -110,7 +110,7 @@
           text-anchor="end">8</text>
     <text x="456" y="274" class="code-text">
       <tspan fill="#1f2328">C           </tspan>
-      <tspan dx="8" fill="#555555"></tspan><tspan fill="#E0E0E0">████████████████</tspan>
+      <tspan dx="8" fill="#555555">█</tspan><tspan fill="#E0E0E0">███████████████</tspan>
       <tspan fill="#656d76" dx="8">  1.4%</tspan>
     </text>
     <text x="422" y="296"
@@ -118,7 +118,7 @@
           text-anchor="end">9</text>
     <text x="456" y="296" class="code-text">
       <tspan fill="#1f2328">Luau        </tspan>
-      <tspan dx="8" fill="#8b949e"></tspan><tspan fill="#E0E0E0">████████████████</tspan>
+      <tspan dx="8" fill="#8b949e">█</tspan><tspan fill="#E0E0E0">███████████████</tspan>
       <tspan fill="#656d76" dx="8">  1.3%</tspan>
     </text>
     <text x="422" y="318"
@@ -126,7 +126,7 @@
           text-anchor="end">10</text>
     <text x="456" y="318" class="code-text">
       <tspan fill="#1f2328">Python      </tspan>
-      <tspan dx="8" fill="#3572A5"></tspan><tspan fill="#E0E0E0">████████████████</tspan>
+      <tspan dx="8" fill="#3572A5">█</tspan><tspan fill="#E0E0E0">███████████████</tspan>
       <tspan fill="#656d76" dx="8">  1.0%</tspan>
     </text>
     <text x="440" y="340"
