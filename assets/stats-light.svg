@@ -37,9 +37,9 @@
   <text x="45" y="175" class="stat-label" fill="#1f2328">Total Commits</text>
   <text x="340" y="175" class="stat-value" fill="#1f2328" text-anchor="end">2.7K</text>
   <text x="45" y="205" class="stat-label" fill="#1f2328">Lines Added</text>
-  <text x="340" y="205" class="stat-value" fill="#1a7f37" text-anchor="end">+939.1K</text>
+  <text x="340" y="205" class="stat-value" fill="#1a7f37" text-anchor="end">+950.7K</text>
   <text x="45" y="235" class="stat-label" fill="#1f2328">Lines Removed</text>
-  <text x="340" y="235" class="stat-value" fill="#cf222e" text-anchor="end">-556.1K</text>
+  <text x="340" y="235" class="stat-value" fill="#cf222e" text-anchor="end">-563.7K</text>
   <text x="45" y="280" class="section-title" fill="#656d76">Overview</text>
   <text x="45" y="310" class="stat-label" fill="#1f2328">Total Repos</text>
   <text x="340" y="310" class="stat-value" fill="#1f2328" text-anchor="end">53</text>
