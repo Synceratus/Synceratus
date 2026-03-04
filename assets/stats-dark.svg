@@ -37,14 +37,14 @@
   <text x="45" y="175" class="stat-label" fill="#C9D1D9">Total Commits</text>
   <text x="340" y="175" class="stat-value" fill="#C9D1D9" text-anchor="end">2.7K</text>
   <text x="45" y="205" class="stat-label" fill="#C9D1D9">Lines Added</text>
-  <text x="340" y="205" class="stat-value" fill="#3fb950" text-anchor="end">+950.7K</text>
+  <text x="340" y="205" class="stat-value" fill="#3fb950" text-anchor="end">+957.4K</text>
   <text x="45" y="235" class="stat-label" fill="#C9D1D9">Lines Removed</text>
-  <text x="340" y="235" class="stat-value" fill="#f85149" text-anchor="end">-563.7K</text>
+  <text x="340" y="235" class="stat-value" fill="#f85149" text-anchor="end">-566.5K</text>
   <text x="45" y="280" class="section-title" fill="#8B949E">Overview</text>
   <text x="45" y="310" class="stat-label" fill="#C9D1D9">Total Repos</text>
-  <text x="340" y="310" class="stat-value" fill="#C9D1D9" text-anchor="end">53</text>
+  <text x="340" y="310" class="stat-value" fill="#C9D1D9" text-anchor="end">70</text>
   <text x="45" y="380" fill="#8B949E" font-size="11" font-family="Segoe UI, Ubuntu, sans-serif">
-    Generated 2026-02-06 by Zaiden's automation
+    Generated 2026-03-04 by Zaiden's automation
   </text>
   
     <text x="440" y="98"
@@ -55,7 +55,7 @@
     <text x="456" y="120" class="code-text">
       <tspan fill="#C9D1D9">Lua         </tspan>
       <tspan dx="8" fill="#000080">█████████████</tspan><tspan fill="#2D343D">███</tspan>
-      <tspan fill="#8B949E" dx="8"> 80.9%</tspan>
+      <tspan fill="#8B949E" dx="8"> 82.0%</tspan>
     </text>
     <text x="422" y="142"
           class="code-text" fill="#8B949E"
@@ -63,71 +63,71 @@
     <text x="456" y="142" class="code-text">
       <tspan fill="#C9D1D9">Java        </tspan>
       <tspan dx="8" fill="#b07219">█</tspan><tspan fill="#2D343D">███████████████</tspan>
-      <tspan fill="#8B949E" dx="8">  7.3%</tspan>
+      <tspan fill="#8B949E" dx="8">  4.0%</tspan>
     </text>
     <text x="422" y="164"
           class="code-text" fill="#8B949E"
           text-anchor="end">3</text>
     <text x="456" y="164" class="code-text">
-      <tspan fill="#C9D1D9">TypeScript  </tspan>
-      <tspan dx="8" fill="#3178c6">█</tspan><tspan fill="#2D343D">███████████████</tspan>
-      <tspan fill="#8B949E" dx="8">  2.5%</tspan>
+      <tspan fill="#C9D1D9">Makefile    </tspan>
+      <tspan dx="8" fill="#427819">█</tspan><tspan fill="#2D343D">███████████████</tspan>
+      <tspan fill="#8B949E" dx="8">  2.0%</tspan>
     </text>
     <text x="422" y="186"
           class="code-text" fill="#8B949E"
           text-anchor="end">4</text>
     <text x="456" y="186" class="code-text">
-      <tspan fill="#C9D1D9">C           </tspan>
-      <tspan dx="8" fill="#555555">█</tspan><tspan fill="#2D343D">███████████████</tspan>
-      <tspan fill="#8B949E" dx="8">  1.9%</tspan>
+      <tspan fill="#C9D1D9">JavaScript  </tspan>
+      <tspan dx="8" fill="#f1e05a">█</tspan><tspan fill="#2D343D">███████████████</tspan>
+      <tspan fill="#8B949E" dx="8">  1.8%</tspan>
     </text>
     <text x="422" y="208"
           class="code-text" fill="#8B949E"
           text-anchor="end">5</text>
     <text x="456" y="208" class="code-text">
-      <tspan fill="#C9D1D9">PHP         </tspan>
-      <tspan dx="8" fill="#4F5D95">█</tspan><tspan fill="#2D343D">███████████████</tspan>
-      <tspan fill="#8B949E" dx="8">  1.5%</tspan>
+      <tspan fill="#C9D1D9">Dart        </tspan>
+      <tspan dx="8" fill="#00B4AB">█</tspan><tspan fill="#2D343D">███████████████</tspan>
+      <tspan fill="#8B949E" dx="8">  1.6%</tspan>
     </text>
     <text x="422" y="230"
           class="code-text" fill="#8B949E"
           text-anchor="end">6</text>
     <text x="456" y="230" class="code-text">
-      <tspan fill="#C9D1D9">JavaScript  </tspan>
-      <tspan dx="8" fill="#f1e05a">█</tspan><tspan fill="#2D343D">███████████████</tspan>
-      <tspan fill="#8B949E" dx="8">  1.2%</tspan>
+      <tspan fill="#C9D1D9">TypeScript  </tspan>
+      <tspan dx="8" fill="#3178c6">█</tspan><tspan fill="#2D343D">███████████████</tspan>
+      <tspan fill="#8B949E" dx="8">  1.6%</tspan>
     </text>
     <text x="422" y="252"
           class="code-text" fill="#8B949E"
           text-anchor="end">7</text>
     <text x="456" y="252" class="code-text">
-      <tspan fill="#C9D1D9">C#          </tspan>
-      <tspan dx="8" fill="#178600">█</tspan><tspan fill="#2D343D">███████████████</tspan>
-      <tspan fill="#8B949E" dx="8">  1.2%</tspan>
+      <tspan fill="#C9D1D9">HTML        </tspan>
+      <tspan dx="8" fill="#e34c26">█</tspan><tspan fill="#2D343D">███████████████</tspan>
+      <tspan fill="#8B949E" dx="8">  1.3%</tspan>
     </text>
     <text x="422" y="274"
           class="code-text" fill="#8B949E"
           text-anchor="end">8</text>
     <text x="456" y="274" class="code-text">
-      <tspan fill="#C9D1D9">HTML        </tspan>
-      <tspan dx="8" fill="#e34c26">█</tspan><tspan fill="#2D343D">███████████████</tspan>
-      <tspan fill="#8B949E" dx="8">  1.0%</tspan>
+      <tspan fill="#C9D1D9">C           </tspan>
+      <tspan dx="8" fill="#555555">█</tspan><tspan fill="#2D343D">███████████████</tspan>
+      <tspan fill="#8B949E" dx="8">  1.1%</tspan>
     </text>
     <text x="422" y="296"
           class="code-text" fill="#8B949E"
           text-anchor="end">9</text>
     <text x="456" y="296" class="code-text">
-      <tspan fill="#C9D1D9">Luau        </tspan>
-      <tspan dx="8" fill="#8b949e">█</tspan><tspan fill="#2D343D">███████████████</tspan>
-      <tspan fill="#8B949E" dx="8">  0.6%</tspan>
+      <tspan fill="#C9D1D9">Python      </tspan>
+      <tspan dx="8" fill="#3572A5">█</tspan><tspan fill="#2D343D">███████████████</tspan>
+      <tspan fill="#8B949E" dx="8">  1.0%</tspan>
     </text>
     <text x="422" y="318"
           class="code-text" fill="#8B949E"
           text-anchor="end">10</text>
     <text x="456" y="318" class="code-text">
-      <tspan fill="#C9D1D9">Shell       </tspan>
-      <tspan dx="8" fill="#89e051">█</tspan><tspan fill="#2D343D">███████████████</tspan>
-      <tspan fill="#8B949E" dx="8">  0.6%</tspan>
+      <tspan fill="#C9D1D9">PHP         </tspan>
+      <tspan dx="8" fill="#4F5D95">█</tspan><tspan fill="#2D343D">███████████████</tspan>
+      <tspan fill="#8B949E" dx="8">  0.8%</tspan>
     </text>
     <text x="440" y="340"
           class="code-text" fill="#8B949E">]]</text>
