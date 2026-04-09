@@ -1,4 +1,4 @@
-### Welcome <img align="right" src="https://komarev.com/ghpvc/?username=Synceratus&style=flat&label=Visitors&color=07a892">
+### Welcome
 
 <div>
   <span>
