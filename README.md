@@ -64,6 +64,7 @@ These are some of the languages, libs, frameworks and tools I've had the chance 
 </p>
 -->
 
+<!--
 ### Projectsss
 
 Here's a list of some of the projects I've worked on lately `[last updated in 2022]`:
@@ -71,6 +72,7 @@ Here's a list of some of the projects I've worked on lately `[last updated in 20
 - **Breachstat**, 3D web simulation of an apartment with controllable sensors and relative analytics;
 - **Tales of Flefaria**, Java 2D platform game based on LibGDX;
 - **Palladium**, general purpose bot for Discord, based on Node.js and DiscordJS;
+-->
 ---
 
 <sub>bye</sub>
